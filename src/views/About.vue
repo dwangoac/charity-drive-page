@@ -36,7 +36,7 @@
           </h3>
           <p class="faq-answer">
             All revenue from donations, bits, and subscriptions on May 4th will be donated
-            to NAMI 
+            to NAMI
             (<a
               class="icon-link"
               href="https://nami.org/"
@@ -71,7 +71,7 @@
           <p class="faq-answer">
             The plan is to start at 8 AM PST on Saturday May 4 from the Petaluma, CA Tesla
             Supercharger station and drive straight through to Salt Lake City, UT with a
-            substantial portion of their journey occurring in the Nevada desert, hence the 
+            substantial portion of their journey occurring in the Nevada desert, hence the
             name.
           </p>
           <h3 class="faq-question">
@@ -116,7 +116,7 @@
             there is a concern about the health and safety of anyone we reserve the right to
             cancel an effect or modify it. Raising money for a good cause is our second highest
             priority behind safety.
-</p>
+          </p>
           <h3 class="faq-question">
             How is this related to speedrunning?
           </h3>
